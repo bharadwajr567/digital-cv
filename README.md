@@ -61,7 +61,7 @@ Built [Basketball Robot], A basketball robot utilizing Qualcomm Chipset and rasb
 **Telugu**: Native
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 
 **Bachelor of Technology** in Electrical and Electronics Engineering <br>
