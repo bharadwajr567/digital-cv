@@ -47,10 +47,10 @@ Citadel LLC San Francisco, CA - Senior SRE/DevOps Engineer - Dec’19 – June�
 ***Illinois Department of Natural resources, Software Engineer Intern – Aug’14 – May ‘15**
 Worked on different platforms for databases, datacenter stability.
 
-***University of Illinois (Computer Engineering), Graduate Assistant, – Jan 2014 – Aug 2014*
+***University of Illinois (Computer Engineering), Graduate Assistant, – Jan 2014 – Aug 2014**
 Assisted senior faculty in planning coursework, teaching and grading undergraduate students for python course.
 
-***Oracle INC , Hyderabad, India, Associate/systems Engineer – – (June 2010 – Nov’13)*
+***Oracle INC , Hyderabad, India, Associate/systems Engineer – – (June 2010 – Nov’13)**
 Involved in developing Automation test scripts in Python for UAT, Stability and performance.
 
 ***EDUCATION**   
