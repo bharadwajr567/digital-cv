@@ -55,4 +55,3 @@ Involved in developing Automation test scripts in Python for UAT, Stability and 
 
 ***EDUCATION**   
 University of Illinois – master’s in computer science (Jan 2014 – May 2015)
-![image](https://user-images.githubusercontent.com/60858844/162099299-a195acd6-352a-4cf3-960a-b04b5d52949f.png)
