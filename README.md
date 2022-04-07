@@ -51,7 +51,7 @@ Cellular and datacenter chipset gaint
 
 
 **Won First Place** @ [Qualcomm Tech Hackathon](https://hack.touchyfeely.tech/) _(Aug 2016)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+Built [Basketball Robot], A basketball robot utilizing Qualcomm Chipset and rasberrypie. 
 
 
 ## 💬 Languages
