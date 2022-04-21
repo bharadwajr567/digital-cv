@@ -5,8 +5,8 @@ _Sr.SRE/Lead and Tinkerer based in Newark, California - Bay Area_ <br>
 [Email](mailto:bharadwaj.r07@gmail.com) / [Website](https://bharadwajr.us/) / [LinkedIn](https://www.linkedin.com/in/bharadwajrallabhandi/) / [GitHub](https://github.com/bharadwajr567/) / [Twitter](https://twitter.com/bhardwajr/) / [DEV](https://dev.to/bharadwajr/)
 
 ## 👩🏼‍💻 Engineering Experience
-**
-> Diligent and result oriented professional with 10 + years of experience in DevOps, Systems
+
+****> Diligent and result oriented professional with 10 + years of experience in DevOps, Systems
 engineering, Testing and Test Automation using Python, BASH.
 > - Extensive experience with Multi cloud environments ( AWS, GCP, Azure), Kubernetes, AKS, EKS, GKE, Servicemesh ( Istio)
 > - Experience in mobile Automation and CI/CD pipleines for React Native, Fastlane,
