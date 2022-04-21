@@ -6,6 +6,7 @@ _Sr.SRE/Lead and Tinkerer based in Newark, California - Bay Area_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
+
 **> Diligent and result oriented professional with 10 + years of experience in DevOps, Systems
 engineering, Testing and Test Automation using Python, BASH.
 > - Extensive experience with Multi cloud environments ( AWS, GCP, Azure), Kubernetes, AKS, EKS, GKE, Servicemesh ( Istio)
