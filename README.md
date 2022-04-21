@@ -25,7 +25,7 @@ process.
 and interpersonal skills.
 • Experience with large-scale infrastructure automation, particularly infrastructure-as-code
 approaches/techniques.
-• Extensive Validation and QA experience.```
+• Extensive Validation and QA experience.
 
 
 **Sr.SRE** @ [FAST](https://FAST.CO/) _(JUN 2021 - Present)_ <br>
