@@ -6,6 +6,28 @@ _Sr.SRE/Lead and Tinkerer based in Newark, California - Bay Area_ <br>
 
 ## 👩🏼‍💻 Engineering Experience
 
+```Diligent and result oriented professional with 10 + years of experience in DevOps, Systems
+engineering, Testing and Test Automation using Python, BASH
+• Extensive experience with Multi cloud environments ( AWS, GCP, Azure), Kubernetes, AKS, EKS, GKE, Servicemesh ( Istio)
+• Experience in mobile Automation and CI/CD pipleines for React Native, Fastlane,
+Gradle, Bazel plugin for iOS and Android.
+• Experience with Unix/Linux operating systems internals and administration (e.g.,
+filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network
+topologies and hardware, SDN)
+• Hands-on experience with Cloudflare, GCP, Azure, Openshift, AWS, Nginix, Vagrant, packer, Terraform, Docker,
+Ansible, PostgreSQL, Jenkins, Spinnaker for Deployments, Datadog, ELK for monitoring.
+• Experience in configuration and automation tools (for example: Ansible, Chef-Engine).
+• Strong exposure and experience in terraform and CloudFormation in writing IAC best
+practices.
+• Extensive experience with datacenter environment for Linux installation and boot-up
+process.
+• Strong analytical and problem-solving, Excellent team, communication, documentation
+and interpersonal skills.
+• Experience with large-scale infrastructure automation, particularly infrastructure-as-code
+approaches/techniques.
+• Extensive Validation and QA experience.```
+
+
 **Sr.SRE** @ [FAST](https://FAST.CO/) _(JUN 2021 - Present)_ <br>
 Checkout platform that enables clients/partners to create profile and checkout on one click.
   - Design and Deploy new services into Infra
