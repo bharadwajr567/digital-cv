@@ -8,24 +8,24 @@ _Sr.SRE/Lead and Tinkerer based in Newark, California - Bay Area_ <br>
 
 > Diligent and result oriented professional with 10 + years of experience in DevOps, Systems
 engineering, Testing and Test Automation using Python, BASH.
-- Extensive experience with Multi cloud environments ( AWS, GCP, Azure), Kubernetes, AKS, EKS, GKE, Servicemesh ( Istio)
-- Experience in mobile Automation and CI/CD pipleines for React Native, Fastlane,
+> - Extensive experience with Multi cloud environments ( AWS, GCP, Azure), Kubernetes, AKS, EKS, GKE, Servicemesh ( Istio)
+> - Experience in mobile Automation and CI/CD pipleines for React Native, Fastlane,
 Gradle, Bazel plugin for iOS and Android.
-- Experience with Unix/Linux operating systems internals and administration (e.g.,
+> - Experience with Unix/Linux operating systems internals and administration (e.g.,
 filesystems, inodes, system calls) or networking (e.g., TCP/IP, routing, network
 topologies and hardware, SDN)
-- Hands-on experience with Cloudflare, GCP, Azure, Openshift, AWS, Nginix, Vagrant, packer, Terraform, Docker,
+> - Hands-on experience with Cloudflare, GCP, Azure, Openshift, AWS, Nginix, Vagrant, packer, Terraform, Docker,
 Ansible, PostgreSQL, Jenkins, Spinnaker for Deployments, Datadog, ELK for monitoring.
-- Experience in configuration and automation tools (for example: Ansible, Chef-Engine)
-- Strong exposure and experience in terraform and CloudFormation in writing IAC best
+> - Experience in configuration and automation tools (for example: Ansible, Chef-Engine)
+> - Strong exposure and experience in terraform and CloudFormation in writing IAC best
 practices.
-- Extensive experience with datacenter environment for Linux installation and boot-up
+> - Extensive experience with datacenter environment for Linux installation and boot-up
 process.
-- Strong analytical and problem-solving, Excellent team, communication, documentation
+> - Strong analytical and problem-solving, Excellent team, communication, documentation
 and interpersonal skills.
-- Experience with large-scale infrastructure automation, particularly infrastructure-as-code
+> - Experience with large-scale infrastructure automation, particularly infrastructure-as-code
 approaches/techniques.
-- Extensive Validation and QA experience.
+> - Extensive Validation and QA experience.
 
 
 **Sr.SRE** @ [FAST](https://FAST.CO/) _(JUN 2021 - Present)_ <br>
